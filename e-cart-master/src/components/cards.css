@@ -1,0 +1,13 @@
+.textname{
+    text-decoration: none !important;
+    text-align: center;
+    color: rgb(40, 40, 39);
+    text-shadow: 2px 2px 5px rgb(179, 147, 147);
+    font-size:18px;
+   
+}
+.textprice{
+    text-decoration: none !important;
+    text-align: center;
+    color: rgb(176, 176, 138);
+}
